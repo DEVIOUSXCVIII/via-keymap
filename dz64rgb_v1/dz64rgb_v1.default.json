@@ -15,9 +15,9 @@
     "",
     "",
     "",
-    "",
-    "",
-    ""
+    "cls{KC_ENT}",
+    "{KC_LSFT,KC_LALT,KC_L}{KC_LSFT,KC_LALT,KC_P}{KC_TAB}{KC_TAB}{KC_TAB}{KC_TAB}{KC_TAB}{KC_ENT}",
+    "{KC_LCTL,KC_K}{KC_LSFT,KC_ENT}"
   ],
   "layers": [
     [
@@ -93,6 +93,7 @@
       "KC_RGHT"
     ],
     [
+      "MACRO14",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -116,16 +117,15 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
+      "MACRO14",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
+      "MACRO15",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "MACRO01",
+      "MACRO00",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -138,7 +138,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
+      "MACRO13",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -308,5 +308,6 @@
       "KC_NO",
       "MACRO03"
     ]
-  ]
+  ],
+  "encoders": []
 }
